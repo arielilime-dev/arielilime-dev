@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SYSTEM-PYTHON_DEV-FF00E5?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MODE-LEARNING-7C3AED?style=for-the-badge&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=ACESSOS&color=00F0FF&style=for-the-badge&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=arielilime-dev&label=ACESSOS&color=00F0FF&style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -97,14 +97,14 @@
 <div align="center">
 
 <!-- Troque o valor de repo= pelo nome real de cada repositório -->
-<a href="https://github.com/SEU-USUARIO/controle-financeiro">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=controle-financeiro&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00E5&border_color=00F0FF&show_owner=false" />
+<a href="https://github.com/arielilime-dev/controle-financeiro">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arielilime-dev&repo=controle-financeiro&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00E5&border_color=00F0FF&show_owner=false" />
 </a>
-<a href="https://github.com/SEU-USUARIO/sistema-login">
+<a href="https://github.com/arielilime-dev/sistema-login">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=sistema-login&theme=transparent&bg_color=0D1117&title_color=FF00E5&text_color=C9D1D9&icon_color=00F0FF&border_color=FF00E5&show_owner=false" />
 </a>
-<a href="https://github.com/SEU-USUARIO/organizador-arquivos">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=organizador-arquivos&theme=transparent&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=00F0FF&border_color=7C3AED&show_owner=false" />
+<a href="https://github.com/arielilime-dev/organizador-arquivos">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arielilime-dev&repo=organizador-arquivos&theme=transparent&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=00F0FF&border_color=7C3AED&show_owner=false" />
 </a>
 
 </div>
@@ -170,7 +170,7 @@ Automation that separates the Downloads folder by file type using 'os' and 'shut
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=arielilime-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=00F0FF&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00E5&text_color=C9D1D9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielilime-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00E5&text_color=C9D1D9&langs_count=8" />
 
 <br/>
 
@@ -187,7 +187,7 @@ Automation that separates the Downloads folder by file type using 'os' and 'shut
 <h3 align="center">🏆 Trophies</h3>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=arielilime-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF00E5,100:00F0FF" width="100%" />
