@@ -208,11 +208,11 @@ Automation that separates the Downloads folder by file type using 'os' and 'shut
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
-<a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:seu@email.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a>
-<a href="https://instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E5" /></a>
-<a href="https://wa.me/5500000000000"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00F0FF" /></a>
+<a href="www.linkedin.com/in/ariel-alliyah-cunha-990034340"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+<a href="https://github.com/arielilime-dev/arielilime-dev/tree/main"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:arielilime@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00E5" /></a>
+<a href="https://instagram.com/kuarasya"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E5" /></a>
+<a href="https://wa.me/5579998131099"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00F0FF" /></a>
 
 </div>
 
