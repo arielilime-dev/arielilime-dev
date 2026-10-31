@@ -169,19 +169,19 @@ Automation that separates the Downloads folder by file type using 'os' and 'shut
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=00F0FF&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arielilime-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=00F0FF&count_private=true&include_all_commits=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00E5&text_color=C9D1D9&langs_count=8" />
 
 <br/>
 
-<img width="80%" src="https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=arielilime-dev&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
 <h3 align="center">📈 Activity Chart</h3>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=00F0FF&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arielilime-dev&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=00F0FF&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 <h3 align="center">🏆 Trophies</h3>
@@ -197,9 +197,9 @@ Automation that separates the Downloads folder by file type using 'os' and 'shut
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arielilime-dev/arielilime-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arielilime-dev/arielilime-dev/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/arielilime-dev/arielilime-dev/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
