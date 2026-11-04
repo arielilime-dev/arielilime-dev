@@ -97,7 +97,7 @@
 <div align="center">
 
 <!-- Troque o valor de repo= pelo nome real de cada repositório -->
-<a href="https://github.com/arielilime-dev/controle-financeiro">
+<a href="https://github.com/arielilime-dev/dashboard">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arielilime-dev&dashboard=controle-financeiro&theme=transparent&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00E5&border_color=00F0FF&show_owner=false" />
 </a>
 <a href="https://github.com/arielilime-dev/sistema-login">
